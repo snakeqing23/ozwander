@@ -1,0 +1,11 @@
+{
+	"name": "Diable email",
+	"description": "disable all emails except for registration",
+	"version": "0.1",
+	"date": "2016-05-22",
+	"author": "Eric Qi",
+	"author_uri": "NA",
+	"license": "NA",
+	"min_q2a": "1.6"
+}
+

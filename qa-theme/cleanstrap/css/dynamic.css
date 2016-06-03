@@ -1,0 +1,4 @@
+body {background: none repeat scroll 0 0 #e2e2e2 !important;}.left-sidebar {background-image: url("http://www.ozwander.com/qa-theme/cleanstrap/images/patterns/bg_color.png") !important;}@media only screen and (max-width : 480px){
+					#site-header .site-logo a{background: url("http://www.ozwander.com/qa-theme/cleanstrap/uploads/smallogo-2.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);}
+				}
+		#nav-ask-btn{background-color: #90addc !important;}
